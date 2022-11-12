@@ -33,7 +33,7 @@ export const FeedbackList = () => {
   //return (
   //  <div className='feedback-list'>
   //    {feedback.map((item) => (
-  //      <FeedbackItem 
+  //      <FeedbackItem  
   //        key={item.id} 
   //        item={item} 
   //        handleDelete={handleDelete} 

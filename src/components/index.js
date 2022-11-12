@@ -1,0 +1,7 @@
+export {Header} from './Header'
+export {FeedbackItem} from './FeedbackItem'
+export {FeedbackList} from './FeedbackList'
+export {FeedbackStats} from  './FeedbackStats'
+export {FeedbackForm} from './FeedbackForm'
+export {RatingSelect} from './RatingSelect'
+export {AboutIconLink} from './AboutIconLink'
